@@ -1,5 +1,5 @@
 public class Main {
-
+	Cambios para el examen
 	public static int[] removeDuplicates(int[] arr) {
 	Arrays.sort(arr);
 		int k = 1;
